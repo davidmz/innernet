@@ -1,7 +1,6 @@
-Package pageant provides an interface to PyTTY pageant.exe utility.
+Package 'innernet' (do not confuse with inTernet!) is a tiny package for creating in-memory network connections inside the application, 
+using the standard interfaces from the 'net' package.
 
-This package is windows-only.
-
-See documentation on [GoDoc](http://godoc.org/github.com/davidmz/go-pageant)
+See documentation on [GoDoc](http://godoc.org/github.com/davidmz/innernet)
 
 License: MIT
